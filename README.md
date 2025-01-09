@@ -1,3 +1,19 @@
+# 空想日記アプリ - README
+
+## 概要
+本アプリは、題名とキーワードを基に、Google Gemini APIを使用して短い日記を生成するツールです。簡単な入力で、楽しい日記を作成できます。
+
+---
+
+## 動作環境
+- **Python バージョン**: 3.8以上
+- **必要なライブラリ**:
+  - `tkinter`（Python標準ライブラリ）
+  - `threading`（Python標準ライブラリ）
+  - `google.generativeai`
+  
+---
+
 # 第6回
 ## タイトル　bingocard
 ## 機能要件
